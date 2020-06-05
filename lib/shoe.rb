@@ -31,6 +31,8 @@ class Shoe
     @material 
   end
  
+  
+ 
   def cobble= (cobble)
     @cobble = cobble
   end
